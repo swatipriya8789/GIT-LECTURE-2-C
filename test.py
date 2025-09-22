@@ -1,2 +1,2 @@
-c=24
-print(c)
+age=24
+print(age)
