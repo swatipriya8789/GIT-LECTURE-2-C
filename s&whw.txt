@@ -1,0 +1,3 @@
+Name = Manvendra Singh 
+Section = A
+Enrolment No. = 2501010571 
